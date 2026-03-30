@@ -8,6 +8,7 @@ function App() {
         <p>
           We <span className="heart">♥️</span> Devops
         </p>
+        <img src="Fish.png" style={{width:300}} />
         <p className="small">
           Edit <code>src/App.jsx</code> and save to reload.
         </p>
