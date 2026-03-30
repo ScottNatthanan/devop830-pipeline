@@ -10,7 +10,7 @@ function App() {
         </p>
         <img src="Fish.png" style={{width:300}} />
         <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          This web app written by <h1>Scott Namo Mon Most</h1>
         </p>
         <p>
           <a
